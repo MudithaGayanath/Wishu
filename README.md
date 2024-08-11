@@ -1,2 +1,2 @@
 # Wishu
-for viva and biasness 
+biasness 
